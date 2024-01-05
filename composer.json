@@ -1,0 +1,5 @@
+{
+    "require": {
+        "tightenco/collect": "^9.52"
+    }
+}
